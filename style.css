@@ -2,7 +2,6 @@ body{
     font-family: 'Poppins', sans-serif;
     margin: 0px;
 }
-
 #headline{
     text-align: center;
     font-size: 70px;
@@ -181,12 +180,28 @@ font-size:20px ;
 .Subscribe-button{
     display: flex;
     background-color: rgb(252, 243, 204);
-    margin-left: 400px;
-    margin-right: 400px;
+    margin-left: 300px;
+    margin-right: 300px;
     border-radius: 10px;
     padding: 20px 20px;
     margin-bottom: 100px;
     text-align: center;
+
+}
+.email{
+    margin-top: 72px;
+    margin-left: 270px;
+    
+}
+
+.join-us{
+    margin-top: 70px;
+   background-color:rgb(247, 98, 98) ;
+   border: none;
+   border-radius: 5px;
+   padding: 7px 15px;
+   margin-right: 40px;
+   margin-bottom: 100px;
 }
 
 
