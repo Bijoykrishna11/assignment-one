@@ -148,3 +148,20 @@ font-size:20px ;
 .help-for-education p{
     color: rgb(133, 130, 130);
 }
+
+.extra-part{
+    display: flex;
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+.barrister-sumon-img{
+    flex-basis: 50%;
+    margin-left: 30px;
+
+}
+#name{
+    font-size:50px ;
+}
+.about-sumon{
+    color:rgb(133, 130, 130) ;
+}
