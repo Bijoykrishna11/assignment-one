@@ -94,3 +94,57 @@ font-size:20px ;
     color: silver;
     margin-top: 50px;
 }
+
+#plan{
+    font-size: 50px;
+    margin-top: 50px;
+    text-align: center;
+}
+#about-donation{
+
+    text-align: center;
+    color:rgb(133, 130, 130) ;
+}
+.help-with-food{
+    background-color: rgb(220, 231, 245);
+    margin-left: 220px;
+    margin-bottom: 30px;
+    margin-right: 50px;
+    border-radius: 10px;
+    padding: 20px 20px;
+    text-align: left;
+
+}
+.help-with-food p{
+    color: rgb(112, 112, 112);
+}
+
+.parents-divition{
+    display: flex;
+    margin-top: 40px;
+    text-align: center;
+}
+
+.help-with-shelter{
+    background-color: rgb(252, 225, 215);
+    margin-bottom: 30px;
+    margin-right: 50px;
+    border-radius: 10px;
+    padding: 20px 20px;
+    text-align: left;
+
+}
+.help-with-shelter p{
+    color: rgb(133, 130, 130);
+}
+.help-for-education{
+    background-color: rgb(252, 243, 204);
+    margin-bottom: 30px;
+    margin-right: 20px;
+    border-radius: 10px;
+    padding: 20px 20px;
+    text-align: left;
+}
+.help-for-education p{
+    color: rgb(133, 130, 130);
+}
