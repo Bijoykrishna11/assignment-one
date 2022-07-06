@@ -30,3 +30,67 @@ font-size:20px ;
     text-align: center;
     background-image: url(donation7.png);
 }
+.everydays-donation{
+    text-align: center;
+}
+.everydays-donation h1{
+    font-size: 50px;
+    margin-top: 50px;
+}
+
+.donation-amount{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    
+}
+#first-button{
+    padding: 50px 40px;
+    border: none;
+    font-size: 30px;
+    margin-right: 20px;
+    border-radius: 5px;
+
+}
+#secend-button{
+    padding: 50px 40px;
+    border-color: red;
+    color: red;
+    font-size: 30px;
+    border-radius: 5px;
+    background-color: rgb(248, 202, 202);
+    margin-right: 20px;
+}
+#third-button{
+    padding: 50px 40px;
+    border: none;
+    font-size: 30px;
+    border-radius: 5px;
+    margin-right: 20px;
+}
+#fourth-button{
+    padding: 50px 35px;
+    border: none;
+    font-size: 30px;
+    border-radius: 5px;
+    margin-right: 20px;
+}
+
+#fifth-button{
+    padding: 50px 35px;
+    border: none;
+    font-size: 30px;
+    border-radius: 5px;
+
+}
+.others-donation{
+    text-align: center;
+}
+.others-donation hr{
+    width: 50%;
+
+}
+.others-donation h3{
+    color: silver;
+    margin-top: 50px;
+}
